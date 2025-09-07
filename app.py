@@ -175,3 +175,12 @@ else:
     st.success(
         "Neutral posture: profit held constant. If competitors drop guest price, consider small positive absorption to defend share."
     )
+
+st.markdown(
+    """
+    ### 📢 Share this tool
+    - [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https://hotel-gst-impact-calculator-india-2025.streamlit.app/)
+    - [Tweet it](https://twitter.com/intent/tweet?text=Check%20out%20this%20Hotel%20GST%20Impact%20Calculator!%20&url=https://hotel-gst-impact-calculator-india-2025.streamlit.app/)
+    - [Share on WhatsApp](https://wa.me/?text=Check%20out%20this%20Hotel%20GST%20Impact%20Calculator:%20https://hotel-gst-impact-calculator-india-2025.streamlit.app/)
+    """
+)
